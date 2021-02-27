@@ -6,4 +6,5 @@
 
 
 ### 목차
-1. [그리디 알고리즘](https://github.com/ssunhj2/midnight/blob/master/src/com/sun/greedy/GREEDY.md)
+1. [그리디](https://github.com/ssunhj2/midnight/blob/master/src/com/sun/greedy/GREEDY.md)
+2. [다이나믹 프로그래밍](https://github.com/ssunhj2/midnight/blob/master/src/com/sun/dynamicProgramming/DYNAMIC_PROGRAMMING.md)
