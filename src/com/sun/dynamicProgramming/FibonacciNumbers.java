@@ -26,7 +26,7 @@ public class FibonacciNumbers
     {
         // n번째 피보나치수를 구할때 n값을 랜덤하게 반환한다.
         // 0 <= n <= 45 이기때문에 아래와 같이 46을 곱한다.
-        int number = RandomNumber.intRandomNumber(46, 0);
+        int number = RandomNumber.getIntRandomNumber(46, 0);
         System.out.println(number +" 번째 피나치 수는 " + fiboNum(number) + " 입니다.");
     }
 

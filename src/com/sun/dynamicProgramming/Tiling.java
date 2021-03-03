@@ -2,7 +2,7 @@ package com.sun.dynamicProgramming;
 
 import com.sun.common.CaseNumber.RandomNumber;
 
-// 2xN 타일링 문
+// 2xN 타일링 문제
 public class Tiling
 {
     /**
@@ -22,7 +22,7 @@ public class Tiling
 
     public static void main(String[] args)
     {
-        int caseNumber = RandomNumber.intRandomNumber(1000, 1);
+        int caseNumber = RandomNumber.getIntRandomNumber(1000, 1);
 
         int result = caseCnt(caseNumber) / 10007;
         System.out.println("2x" + caseNumber + " 크기의 직사각형을 채우는 방법의 수 를 10,007로 나눈 수:  " + result);
