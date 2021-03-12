@@ -2,7 +2,7 @@ package com.sun.greedy;
 
 import java.util.Scanner;
 
-public class Coin
+public class Coin_11047
 {
     /**
      * 문제

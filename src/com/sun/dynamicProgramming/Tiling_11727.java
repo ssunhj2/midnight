@@ -3,7 +3,7 @@ package com.sun.dynamicProgramming;
 import com.sun.common.CaseNumber.RandomNumber;
 
 // 2xN 타일링 문제
-public class Tiling2
+public class Tiling_11727
 {
     /**
      * 문제

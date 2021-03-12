@@ -1,6 +1,6 @@
 package com.sun.greedy;
 
-public class SugarDelivery
+public class SugarDelivery_2839
 {
     /**
      * 문제

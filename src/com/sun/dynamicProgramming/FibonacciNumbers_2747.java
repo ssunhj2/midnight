@@ -2,7 +2,7 @@ package com.sun.dynamicProgramming;
 
 import com.sun.common.CaseNumber.RandomNumber;
 
-public class FibonacciNumbers
+public class FibonacciNumbers_2747
 {
     /**
      * 문제

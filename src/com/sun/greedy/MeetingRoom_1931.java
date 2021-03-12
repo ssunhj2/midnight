@@ -1,6 +1,6 @@
 package com.sun.greedy;
 
-public class MeetingRoom
+public class MeetingRoom_1931
 {
     /**
      * 문제
